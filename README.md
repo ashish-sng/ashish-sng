@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
+<h1 align="center">Hi 👋, I'm Ashish Singh </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/68745052/220556158-b80e6004-29e6-4add-aa94-994ae4f4c6fb.gif" alt="ashishsng_" height="300" width="800" />
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-sng&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-sng" /> </p>
 
 - 🌱 I’m currently learning **Express**
 
-- 💬 Ask me about **react, javascript, react-native**
+- 💬 Ask me about **React, Javascript, CSS**
 
 - 📫 How to reach me **ashishsingh.1899@gmail.com**
 
