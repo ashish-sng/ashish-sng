@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish-sng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-sng" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-sng" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220546239-6313d6ea-a4a3-4ff7-9c52-a5a6cb329790.png" alt="ashish-sng" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishsng_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishsng_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chefashish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chefashish" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishsng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishsng" height="30" width="40" /></a>
