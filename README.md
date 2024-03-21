@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-sng&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-sng" /> </p>
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **React, Javascript, CSS**
+- 💬 Ask me about **React, Javascript, CSS, Remix**
 
 - 📫 How to reach me **ashishsingh.1899@gmail.com**
 
