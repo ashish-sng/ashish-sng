@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/68745052/220556158-b80e6004-29e6-4add-aa94-994ae4f4c6fb.gif" alt="ashishsng_" height="300" width="800" />
  </p>
