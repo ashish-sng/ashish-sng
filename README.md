@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish-sng" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220546239-6313d6ea-a4a3-4ff7-9c52-a5a6cb329790.png" alt="ashish-sng" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishsng_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547450-4c4d817d-0a04-437b-b0aa-07e710051cbb.png" alt="ashishsng_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chefashish" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547431-e83d88a2-0da7-45f0-aa1c-17b7a7bc1fa1.png" alt="chefashish" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/ashishsng_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547450-4c4d817d-0a04-437b-b0aa-07e710051cbb.png" alt="ashishsng_" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/chefashish" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547431-e83d88a2-0da7-45f0-aa1c-17b7a7bc1fa1.png" alt="chefashish" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/ashishsng" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547210-4bbf1ba2-fcf7-454c-8e10-f720cf99e118.png" alt="ashishsng" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashishsng_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547409-5acf2618-6282-4d60-b504-0fd8fbb5e902.png" alt="ashishsng_" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/ashishsng_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68745052/220547409-5acf2618-6282-4d60-b504-0fd8fbb5e902.png" alt="ashishsng_" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
